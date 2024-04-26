@@ -8,11 +8,12 @@ Este es el backend para la aplicación TruequeTool.
 
 ```bash
 git clone https://github.com/tu-usuario/TruequeTool-backend.git
+```
 
 2. Instala las dependencias
 npm install
 
-### Dependencias
+## Dependencias
 Express: Framework web para Node.js.
 Knex: SQL query builder para Node.js.
 mysql: Conector MySQL para Node.js.
